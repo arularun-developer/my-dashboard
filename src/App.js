@@ -43,7 +43,7 @@ function App() {
           <li>
             <a href="#">
               <i class='bx bxs-group' ></i>
-              <span class="text">Team</span>
+              <span class="text">Team</span> 
             </a>
           </li>
         </ul>
